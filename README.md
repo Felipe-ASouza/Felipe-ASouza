@@ -1,5 +1,8 @@
-### Olá, sou o Felipe 🖐️.
+### Olá, sou o Felipe 👋
 <h3>Estou iniciando minha carreira na T.I em busca de ser um Desenvolvedor back-end</h3>
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FelipeASouza&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Felipe-ASouza&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FelipeASouza&layout=compact&hide_title=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-ASouza&show_icons=true&theme=radical&count_private=true)
 
