@@ -1,6 +1,6 @@
 ### Olá, sou o Felipe 👋
 <h3>Estou iniciando minha carreira na T.I em busca de ser um Desenvolvedor back-end</h3>
-<p>Engenheiro de sistemnas - QuintoAndar</p>
+<p>Engenheiro de sistemas - QuintoAndar</p>
 <p>Cursando Análise e desenvolvimento de sistemas - UNIP</p>
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FelipeASouza&theme=radical)
