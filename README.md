@@ -1,9 +1,9 @@
-## 👋 Olá, eu sou o Felipe Alexandre
+## 👋 Olá, eu sou o Felipe
 
 💻 Engenheiro de Sistemas no **QuintoAndar**  
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 
-Atuo como engenheiro de sistemas, com foco em back-end, sempre buscando escrever código limpo, escalável e alinhado a boas práticas. Tenho interesse contínuo em evoluir tecnicamente e aprofundar meus conhecimentos em arquitetura, APIs e sistemas distribuídos.
+Atuo como engenheiro de sistemas com foco em back-end, buscando escrever código limpo, escalável e alinhado a boas práticas. Tenho interesse contínuo em evolução técnica, arquitetura de software, APIs e sistemas distribuídos.
 
 ---
 
@@ -19,21 +19,13 @@ Atuo como engenheiro de sistemas, com foco em back-end, sempre buscando escrever
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Felipe-ASouza&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Felipe-ASouza&layout=compact&theme=radical)
-
----
-
 ## 📌 Atuação e interesses
 
 - Desenvolvimento back-end
 - APIs REST com Spring Boot
 - Integrações entre sistemas
-- Boas práticas de código e versionamento
-- Evolução constante como engenheiro de software
+- Boas práticas de código
+- Arquitetura e escalabilidade
 
 ---
 
@@ -50,7 +42,3 @@ Atuo como engenheiro de sistemas, com foco em back-end, sempre buscando escrever
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
----
-
-⭐ Sempre aberto a novos desafios, aprendizado contínuo e troca de conhecimento.
